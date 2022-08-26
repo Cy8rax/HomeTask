@@ -1,0 +1,15 @@
+/home/cy8rax/Desktop/HomeTask/2nd_Task/bin/Debug/net6.0/2nd_Task
+/home/cy8rax/Desktop/HomeTask/2nd_Task/bin/Debug/net6.0/2nd_Task.deps.json
+/home/cy8rax/Desktop/HomeTask/2nd_Task/bin/Debug/net6.0/2nd_Task.runtimeconfig.json
+/home/cy8rax/Desktop/HomeTask/2nd_Task/bin/Debug/net6.0/2nd_Task.dll
+/home/cy8rax/Desktop/HomeTask/2nd_Task/bin/Debug/net6.0/ref/2nd_Task.dll
+/home/cy8rax/Desktop/HomeTask/2nd_Task/bin/Debug/net6.0/2nd_Task.pdb
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.csproj.AssemblyReference.cache
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.AssemblyInfoInputs.cache
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.AssemblyInfo.cs
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.csproj.CoreCompileInputs.cache
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.dll
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/ref/2nd_Task.dll
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.pdb
+/home/cy8rax/Desktop/HomeTask/2nd_Task/obj/Debug/net6.0/2nd_Task.genruntimeconfig.cache
