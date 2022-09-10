@@ -31,3 +31,16 @@ void Calc(double[] arr)
 
 input(array);
 Calc(array);
+
+//как не получилось сделать:
+
+// double Calc(double[] arr)
+// {
+//     x = (arr[3]-arr[1])/(arr[0]-arr[2]);
+//     y = (arr[2]*x)+arr[3];
+//     return x; //?? они же не могут одновременно return   (ツ)_/¯
+//     return y; //??
+// }
+
+// input(array);
+// Console.WriteLine(Calc(array));
